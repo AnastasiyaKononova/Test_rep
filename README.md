@@ -16,3 +16,9 @@ hello from toyer
 GOODBYE
 byebyebyebyebye
 NASTYA POSTRIGLAS'
+git pull
+git add ...
+git commit -m "my commit"
+git push
+;;;;;;;;))
+

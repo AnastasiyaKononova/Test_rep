@@ -12,3 +12,4 @@ qqqq
 add
 очень привет
 hello from toyer
+ПРИВЕТ

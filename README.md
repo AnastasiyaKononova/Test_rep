@@ -8,6 +8,7 @@
 FIRST!!!
 new commit
 qqqq
+
 всем привет
 add
 очень привет
@@ -15,6 +16,7 @@ hello from toyer
 ПРИВЕТ
 GOODBYE
 byebyebyebyebye
+
 NASTYA POSTRIGLAS'
 git pull
 git add ...
